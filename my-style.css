@@ -1,0 +1,32 @@
+h1{
+    color: aliceblue;
+    text-shadow: 6px;
+}
+
+div{
+    color: aliceblue;
+    font-size: 18px;
+    text-shadow: 6px;
+}
+
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ol {
+    background-color: transparent;
+}
+
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: aliceblue;
+    text-decoration: none;
+    text-shadow: 6px;
+    background-color: transparent;
+    border: 1px solid rgba(0,0,0,.125);
+}
