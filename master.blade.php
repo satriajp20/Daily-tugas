@@ -24,14 +24,14 @@
         </ul>
     </div>
 </nav>
-
-@yield('content')
 <div class="alert alert-primary text-center">Sistem Informasi Mahasiswa</div>
 @show
+@yield('content')
+
 
 <footer class="bg-dark text-center py-4 text-white mt-4">
 <div class="container">
-    Sistem Informasi Mahasiswa | Copyright © {{ date("Y") }} Duniailkom
+    Sistem Informasi Mahasiswa | NIM : 216651036 NAMA : SATRIA JHOAN PUTRA
 </div>
 </footer>
 
